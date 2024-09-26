@@ -30,8 +30,11 @@ RollBot is a simple Discord bot that allows users to roll a dice and receive a r
    npm install
    ```
 1. **Create a .env file in the root directory and add your bot token and client ID:**
-DISCORD_TOKEN=your_bot_token
-CLIENT_ID=your_client_id
+   ```bash
+   DISCORD_TOKEN=your_bot_token
+   CLIENT_ID=your_client_id
+   ```
+
 
 ## Usage
 
