@@ -21,7 +21,7 @@ RollBot is a simple Discord bot that allows users to roll a dice and receive a r
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/justsylxnt/RollBot.git
+   git clone https://github.com/notstraky/RollBot.git
    cd RollBot
    ```
 2. **Install dependencies:**
