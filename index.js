@@ -43,6 +43,8 @@ client.once(Events.ClientReady, () => {
     console.log(`Bot conectado como ${client.user.tag}`);
 });
 
+// Pendiente mejorar la implementación para correr el bot por medio de (!) 
+
 // Evento que se activa cuando se usa un comando de interacción
 client.on(Events.InteractionCreate, async interaction => {
     if (!interaction.isCommand()) return;
